@@ -1,3 +1,3 @@
 # Frontend-Development-
-HTML, CSS, JS, BOOTSTRAP Portfolio
+Portfolio (HTML, CSS, JS)
 
